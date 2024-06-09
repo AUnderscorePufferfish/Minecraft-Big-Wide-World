@@ -1,0 +1,9 @@
+To set to normal, leave blank.
+
+To Enable Pirate Event:
+
+{
+  "pirates"
+  "url": "www.google.com"
+}
+
